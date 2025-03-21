@@ -4,34 +4,17 @@ from google.genai import types
 import os
 
 # --- Navbar ---
-st.markdown("""
-<style>
-.navbar {
-    background-color: #f8f9fa;
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
+menu_items = {"James":"https://jamesthedatascientist.com",
+              "ParaFlow.AI":"",
+              "Prompt Library":"https://github.com/JLabadorf/PromptLibrary",
+              "Buy Me a Coffee":"https://buymeacoffee.com/labadorf"
 }
-.navbar button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 5px;
-}
-</style>
-<div class="navbar">
-    <a href="https://jamesthedatascientist.com" target="_blank"><button>JTD Home</button></a>
-    <button disabled>ParaFlow.ai</button>
-    <button onclick="window.location.reload();">Reset Conversation</button>
-</div>
-""", unsafe_allow_html=True)
+st.set_page_config(page_title="ParaFlow.AI", page_icon=":robot_face:", layout="wide")
+st.show_sidebar = True
+st.sidebar.title("ParaFlow.AI")
+for item in menu_items:
+    st.sidebar.markdown(f"[{item}]({menu_items[item]})")
+
 
 # --- Setup Gemini API using google.genai ---
 GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
