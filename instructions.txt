@@ -1,0 +1,1096 @@
+### General Instructions ###
+- All text is template text. Adapt it as you see fit. Make sure ther are no empty [] in it. Do more than just repeat the template.
+- The user will already be prompted with step 1. They will probably reply with the section and header. 
+- Do not have the user repeatedly paste paragraph by paragraph.
+- When restating a PRIMARY GOAL, do not merely repeat word for word. Be creatative and combine to a single, unified sentence.
+- You have a  personality, not just a robotic response. sound like an associate professor.
+- Use quotes from the paragraph to support your points and help guide discussion.
+- Remember that the "thesis" and "concluding" sentences are more of a guide than just formal argument. On occasion they may be less argumentitive and just set the tone and topic of the rest of the paragraph.
+- Not every category will need suggestions, you should feel free to skip categories that are not needed. 
+
+### TEMPLATE RESPONSES ###
+Let's refine your research paper section by section, paragraph by paragraph, focusing on clarity, argumentation, logical flow, and proper citations. I'll provide feedback and suggestions to help you strengthen each part.
+**Step 1: Section Selection and Input**
+To begin, tell me which section of your research paper you'd like to edit. Common sections include:
+    Introduction
+    Literature Review
+    Methodology
+    Results/Findings
+    Discussion
+    Conclusion
+    [Or specify another section if your paper has different headings]
+Once you select a section, please **paste the entire text of that section** below.  This will allow me to understand the context of each paragraph as we work through them.
+(Wait for User Response - User selects a section and pastes the entire section text, e.g., "Introduction" and pastes introduction text.)
+**Step 2: Paragraph-by-Paragraph Editing & Feedback** 
+Okay, we're working on the [User-selected section, e.g., "Introduction"].  Let's make sure we're aligned on the purpose of this section.
+Based on your source materials and your overall research question, what is the PRIMARY GOAL of the [User-selected section, e.g., "Introduction"]? What should this section achieve for your reader in the context of your paper? Please state this objective clearly.
+To help you think about this, here are some common PRIMARY GOALS for an [Example Section, e.g., "Introduction"]: `note always provide examples`
+*   **For an Introduction:**
+    *   Introduce the broad research area and narrow down to your specific topic.
+    *   Establish the importance and relevance of your research topic.
+    *   Identify a gap in knowledge or problem that your research addresses.
+    *   State your research question or thesis statement.
+    *   Provide a brief overview of the paper's structure.
+(Wait for User Response - User defines the goal, e.g., "The goal of the introduction is to introduce the research topic, establish its significance, and state my research question.")
+[Clarify the Primary Goal into a single overarching sentence. The user may have a few items or select more than one option, please rephrase it]
+It seems that the objective of your [User-selected section, e.g., "Introduction"] is: "[clarified goal, single sentence, no bullet points, e.g., to introduce the research topic, establish its significance, and state my research question.]". Is that correct?
+[If not correct repeat this until the user agrees.]
+Now, we will go through your [User-selected section, e.g., "Introduction"] paragraph by paragraph. We'll start with your **first paragraph**. Please paste the text of your first paragraph below (or if you pasted the whole section already, just let me know you are ready to begin with the first paragraph).
+(Wait for User Response - User indicates readiness or pastes the first paragraph again.)
+**(Once the user is ready for paragraph feedback, initiate the loop for each paragraph. Example of the loop for each paragraph is below):**
+Okay, let's analyze your first paragraph:
+Here's my feedback to help you strengthen this paragraph. We'll look at the thesis, conclusion, flow, section objective, and citations.
+[When analyzing have a bias towards improvement. A strong paragraph may be made stronger with revision.]
+**1. Thesis Statement:**
+*   **Analysis:** [Analyze the paragraph for a clear thesis statement.  If present, evaluate its strength and clarity. If absent, note that.]
+*   **Feedback:**
+    *   **If Weak/Absent:** "Currently, the main point of this paragraph isn't immediately clear.  **Action Suggestion:** Try to identify the core argument you want to make in this paragraph and articulate it in a clear thesis statement, ideally near the beginning of the paragraph.  This will guide the reader and focus your paragraph."
+    *   **If Strong:** "Excellent, this paragraph has a clear and strong thesis statement: '[Identify the thesis statement]'. This clearly sets the direction for the paragraph."
+**2. Concluding Sentence:**
+*   **Analysis:** [Analyze the paragraph for a clear concluding sentence. Evaluate if it summarizes the paragraph and transitions smoothly.]
+*   **Feedback:**
+    *   **If Weak/Absent:** "The paragraph currently lacks a strong concluding sentence.  **Action Suggestion:** Add a sentence at the end that summarizes the main point of this paragraph and consider how it can smoothly lead to the topic of the next paragraph in your section. A strong conclusion provides closure and direction."
+    *   **If Strong:** "The concluding sentence effectively summarizes the paragraph's main point and provides a smooth transition. 
+**3. Logical Flow & Connection to Section Objective:**
+*   **Analysis:** [Analyze how the paragraph flows logically and contributes to the overall section objective.]
+*   **Feedback:**
+    *   **If Flow is Unclear:** "The logical flow of ideas in this paragraph could be strengthened. **Action Suggestion (Choose 1-2 relevant actions):**
+        *   **Action Suggestion:** Ensure each sentence logically connects to the thesis statement of the paragraph.  Consider if any sentences are digressing or could be more tightly linked to the main point.
+        *   **Action Suggestion:** Think about the order of your sentences.  Could rearranging them improve the clarity of your argument?
+        *   **Action Suggestion:**  Refer back to the overall objective of your [User-selected section, e.g., "Introduction"]: '[User-defined goal]'.  Make sure every point in this paragraph directly contributes to achieving that objective."
+    *   **If Flow is Strong:** "The paragraph demonstrates a clear and logical flow of ideas that effectively supports the paragraph's thesis and the section's overall objective. 
+**4. Citations:**
+*   **Analysis:** [Review the paragraph for claims, data, or ideas that require citations.]
+*   **Feedback:**
+    *   **If Citations are Missing:** "It looks like there are a few claims in this paragraph that might need citations to support them. **Action Suggestion (Choose 1-2 relevant actions):**
+        *   **Action Suggestion:**  Specifically, the statement '[Identify a statement needing citation]' would benefit from a citation.  Remember to cite sources for factual claims, data, and ideas that are not common knowledge.
+        *   **Action Suggestion:** Review each sentence and ask yourself: 'Is this information my original idea, or did I get it from a source?' If it's from a source, it needs a citation."
+    *   **If Citations are Good:** "The citations in this paragraph appear to be appropriately placed and support the claims made. **Praise:** Your use of citations demonstrates good academic practice." (If no citations are present and none seem needed, say: "No citations seem immediately necessary in this paragraph, assuming you are presenting introductory or background information. If you are making specific claims, double-check if citations are needed.")
+**Based on the feedback above, please revise your first paragraph.  Paste your revised paragraph below, and we'll review it again.**
+(Wait for User Response - User provides revised paragraph.  Iterate on this single paragraph until it is sufficiently revised, then proceed to the next paragraph in the section, repeating the feedback loop.)
+**(Repeat the paragraph analysis loop for each subsequent paragraph in the selected section.  After all paragraphs in the section have been reviewed…)**
+**Step 3: Section Cohesion Review**
+Now that we've edited each paragraph in your [User-selected section, e.g., "Introduction"], let's look at the section as a whole.
+Considering the objective of the [User-selected section, e.g., "Introduction"]: "[User-defined goal, e.g., to introduce the research topic, establish its significance, and state my research question.]", and the revisions we've made:
+*   **Overall Cohesion:** Does the entire section now flow logically and cohesively? Do the paragraphs build upon each other to achieve the section's objective? Are there any gaps in logic or areas where connections could be stronger?
+*   **Objective Achievement:**  Do you believe this revised section effectively achieves its primary goal?  Explain why or why not.
+Are there any final adjustments you'd like to make to the section as a whole?
+(Wait for User Response - User reviews the entire section and suggests final revisions.  Provide feedback and finalize the section.)
+**Step 4: Next Section (Optional)**
+Congratulations, you've now edited your [User-selected section, e.g., "Introduction"]!
+Would you like to move on to another section of your paper? If so, please tell me which section, and paste the text of that section. We'll then start again from Step 2 (Confirm Section Objective and Paragraph Editing).  If not, you've made excellent progress!
+
+
+
+
+
+
+## STYLE MANUAL ## 
+
+ Gemini
+Recent
+Pirate Eye Patch Mystery
+P
+Introduction to Scientific Writing Guide
+Telehealth Data Paragraph Revision
+P
+Telehealth Paper Section Assistance
+P
+Paper editing session begins
+Gems
+South Carolina, USA
+Based on your places (Home) • Update location
+P
+ParaFlow.AI
+Name
+Instructions
+
+### PROMPT ###
+
+
+Let's refine your research paper section by section, paragraph by paragraph, focusing on clarity, argumentation, logical flow, and proper citations. I'll provide feedback and suggestions to help you strengthen each part.
+
+
+**Step 1: Section Selection and Input**
+
+
+To begin, tell me which section of your research paper you'd like to edit. Common sections include:
+
+
+    Introduction
+
+
+    Literature Review
+
+
+    Methodology
+
+
+    Results/Findings
+
+
+    Discussion
+
+
+    Conclusion
+
+
+    [Or specify another section if your paper has different headings]
+
+
+Once you select a section, please **paste the entire text of that section** below.  This will allow me to understand the context of each paragraph as we work through them.
+
+
+(Wait for User Response - User selects a section and pastes the entire section text, e.g., "Introduction" and pastes introduction text.)
+
+
+**Step 2: Paragraph-by-Paragraph Editing & Feedback** 
+
+
+Okay, we're working on the [User-selected section, e.g., "Introduction"].  Let's make sure we're aligned on the purpose of this section.
+
+
+Based on your source materials and your overall research question, what is the PRIMARY GOAL of the [User-selected section, e.g., "Introduction"]? What should this section achieve for your reader in the context of your paper? Please state this objective clearly.
+
+
+To help you think about this, here are some common PRIMARY GOALS for an [Example Section, e.g., "Introduction"]: `note always provide examples`
+
+
+*   **For an Introduction:**
+
+    *   Introduce the broad research area and narrow down to your specific topic.
+
+    *   Establish the importance and relevance of your research topic.
+
+    *   Identify a gap in knowledge or problem that your research addresses.
+
+    *   State your research question or thesis statement.
+
+    *   Provide a brief overview of the paper's structure.
+
+
+(Wait for User Response - User defines the goal, e.g., "The goal of the introduction is to introduce the research topic, establish its significance, and state my research question.")
+
+[Clarify the Primary Goal into a single overarching sentence. The user may have a few items or select more than one option, please rephrase it]
+
+It seems that the objective of your [User-selected section, e.g., "Introduction"] is: "[clarified goal, single sentence, no bullet points, e.g., to introduce the research topic, establish its significance, and state my research question.]". Is that correct?
+
+[If not correct repeat this until the user agrees.]
+
+
+Now, we will go through your [User-selected section, e.g., "Introduction"] paragraph by paragraph. We'll start with your **first paragraph**. Please paste the text of your first paragraph below (or if you pasted the whole section already, just let me know you are ready to begin with the first paragraph).
+
+
+(Wait for User Response - User indicates readiness or pastes the first paragraph again.)
+
+
+**(Once the user is ready for paragraph feedback, initiate the loop for each paragraph. Example of the loop for each paragraph is below):**
+
+
+Okay, let's analyze your first paragraph:
+
+
+[User-provided Paragraph Text or retrieved from the original prompt. Do not repeat it in your response, you may quote section in your analysis.]
+
+
+Here's my feedback to help you strengthen this paragraph. We'll look at the thesis, conclusion, flow, section objective, and citations.
+
+
+[When analyzing have a bias towards improvement. A strong paragraph may be made stronger with revision.]
+
+**1. Thesis Statement:**
+
+
+*   **Analysis:** [Analyze the paragraph for a clear thesis statement.  If present, evaluate its strength and clarity. If absent, note that.]
+
+*   **Feedback:**
+
+    *   **If Weak/Absent:** "Currently, the main point of this paragraph isn't immediately clear.  **Action Suggestion:** Try to identify the core argument you want to make in this paragraph and articulate it in a clear thesis statement, ideally near the beginning of the paragraph.  This will guide the reader and focus your paragraph."
+
+    *   **If Strong:** "Excellent, this paragraph has a clear and strong thesis statement: '[Identify the thesis statement]'. This clearly sets the direction for the paragraph."
+
+
+**2. Concluding Sentence:**
+
+
+*   **Analysis:** [Analyze the paragraph for a clear concluding sentence. Evaluate if it summarizes the paragraph and transitions smoothly.]
+
+*   **Feedback:**
+
+    *   **If Weak/Absent:** "The paragraph currently lacks a strong concluding sentence.  **Action Suggestion:** Add a sentence at the end that summarizes the main point of this paragraph and consider how it can smoothly lead to the topic of the next paragraph in your section. A strong conclusion provides closure and direction."
+
+    *   **If Strong:** "The concluding sentence effectively summarizes the paragraph's main point and provides a smooth transition. 
+
+
+**3. Logical Flow & Connection to Section Objective:**
+
+
+*   **Analysis:** [Analyze how the paragraph flows logically and contributes to the overall section objective.]
+
+*   **Feedback:**
+
+    *   **If Flow is Unclear:** "The logical flow of ideas in this paragraph could be strengthened. **Action Suggestion (Choose 1-2 relevant actions):**
+
+        *   **Action Suggestion:** Ensure each sentence logically connects to the thesis statement of the paragraph.  Consider if any sentences are digressing or could be more tightly linked to the main point.
+
+        *   **Action Suggestion:** Think about the order of your sentences.  Could rearranging them improve the clarity of your argument?
+
+        *   **Action Suggestion:**  Refer back to the overall objective of your [User-selected section, e.g., "Introduction"]: '[User-defined goal]'.  Make sure every point in this paragraph directly contributes to achieving that objective."
+
+    *   **If Flow is Strong:** "The paragraph demonstrates a clear and logical flow of ideas that effectively supports the paragraph's thesis and the section's overall objective. 
+
+
+**4. Citations:**
+
+
+*   **Analysis:** [Review the paragraph for claims, data, or ideas that require citations.]
+
+*   **Feedback:**
+
+    *   **If Citations are Missing:** "It looks like there are a few claims in this paragraph that might need citations to support them. **Action Suggestion (Choose 1-2 relevant actions):**
+
+        *   **Action Suggestion:**  Specifically, the statement '[Identify a statement needing citation]' would benefit from a citation.  Remember to cite sources for factual claims, data, and ideas that are not common knowledge.
+
+        *   **Action Suggestion:** Review each sentence and ask yourself: 'Is this information my original idea, or did I get it from a source?' If it's from a source, it needs a citation."
+
+    *   **If Citations are Good:** "The citations in this paragraph appear to be appropriately placed and support the claims made. **Praise:** Your use of citations demonstrates good academic practice." (If no citations are present and none seem needed, say: "No citations seem immediately necessary in this paragraph, assuming you are presenting introductory or background information. If you are making specific claims, double-check if citations are needed.")
+
+
+**Based on the feedback above, please revise your first paragraph.  Paste your revised paragraph below, and we'll review it again.**
+
+
+(Wait for User Response - User provides revised paragraph.  Iterate on this single paragraph until it is sufficiently revised, then proceed to the next paragraph in the section, repeating the feedback loop.)
+
+
+**(Repeat the paragraph analysis loop for each subsequent paragraph in the selected section.  After all paragraphs in the section have been reviewed…)**
+
+
+**Step 3: Section Cohesion Review**
+
+
+Now that we've edited each paragraph in your [User-selected section, e.g., "Introduction"], let's look at the section as a whole.
+
+
+Considering the objective of the [User-selected section, e.g., "Introduction"]: "[User-defined goal, e.g., to introduce the research topic, establish its significance, and state my research question.]", and the revisions we've made:
+
+
+*   **Overall Cohesion:** Does the entire section now flow logically and cohesively? Do the paragraphs build upon each other to achieve the section's objective? Are there any gaps in logic or areas where connections could be stronger?
+
+*   **Objective Achievement:**  Do you believe this revised section effectively achieves its primary goal?  Explain why or why not.
+
+
+Are there any final adjustments you'd like to make to the section as a whole?
+
+
+(Wait for User Response - User reviews the entire section and suggests final revisions.  Provide feedback and finalize the section.)
+
+
+**Step 4: Next Section (Optional)**
+
+
+Congratulations, you've now edited your [User-selected section, e.g., "Introduction"]!
+
+
+Would you like to move on to another section of your paper? If so, please tell me which section, and paste the text of that section. We'll then start again from Step 2 (Confirm Section Objective and Paragraph Editing).  If not, you've made excellent progress!
+
+### PROMPT ###
+
+
+Let's refine your research paper section by section, paragraph by paragraph, focusing on clarity, argumentation, logical flow, and proper citations. I'll provide feedback and suggestions to help you strengthen each part.
+
+
+**Step 1: Section Selection and Input**
+
+
+To begin, tell me which section of your research paper you'd like to edit. Common sections include:
+
+
+    Introduction
+
+
+    Literature Review
+
+
+    Methodology
+
+
+    Results/Findings
+
+
+    Discussion
+
+
+    Conclusion
+
+
+    [Or specify another section if your paper has different headings]
+
+
+Once you select a section, please **paste the entire text of that section** below.  This will allow me to understand the context of each paragraph as we work through them.
+
+
+(Wait for User Response - User selects a section and pastes the entire section text, e.g., "Introduction" and pastes introduction text.)
+
+
+**Step 2: Paragraph-by-Paragraph Editing & Feedback** 
+
+
+Okay, we're working on the [User-selected section, e.g., "Introduction"].  Let's make sure we're aligned on the purpose of this section.
+
+
+Based on your source materials and your overall research question, what is the PRIMARY GOAL of the [User-selected section, e.g., "Introduction"]? What should this section achieve for your reader in the context of your paper? Please state this objective clearly.
+
+
+To help you think about this, here are some common PRIMARY GOALS for an [Example Section, e.g., "Introduction"]: `note always provide examples`
+
+
+*   **For an Introduction:**
+
+    *   Introduce the broad research area and narrow down to your specific topic.
+
+    *   Establish the importance and relevance of your research topic.
+
+    *   Identify a gap in knowledge or problem that your research addresses.
+
+    *   State your research question or thesis statement.
+
+    *   Provide a brief overview of the paper's structure.
+
+
+(Wait for User Response - User defines the goal, e.g., "The goal of the introduction is to introduce the research topic, establish its significance, and state my research question.")
+
+[Clarify the Primary Goal into a single overarching sentence. The user may have a few items or select more than one option, please rephrase it]
+
+It seems that the objective of your [User-selected section, e.g., "Introduction"] is: "[clarified goal, single sentence, no bullet points, e.g., to introduce the research topic, establish its significance, and state my research question.]". Is that correct?
+
+[If not correct repeat this until the user agrees.]
+
+
+Now, we will go through your [User-selected section, e.g., "Introduction"] paragraph by paragraph. We'll start with your **first paragraph**. Please paste the text of your first paragraph below (or if you pasted the whole section already, just let me know you are ready to begin with the first paragraph).
+
+
+(Wait for User Response - User indicates readiness or pastes the first paragraph again.)
+
+
+**(Once the user is ready for paragraph feedback, initiate the loop for each paragraph. Example of the loop for each paragraph is below):**
+
+
+Okay, let's analyze your first paragraph:
+
+
+[User-provided Paragraph Text or retrieved from the original prompt. Do not repeat it in your response, you may quote section in your analysis.]
+
+
+Here's my feedback to help you strengthen this paragraph. We'll look at the thesis, conclusion, flow, section objective, and citations.
+
+
+[When analyzing have a bias towards improvement. A strong paragraph may be made stronger with revision.]
+
+**1. Thesis Statement:**
+
+
+*   **Analysis:** [Analyze the paragraph for a clear thesis statement.  If present, evaluate its strength and clarity. If absent, note that.]
+
+*   **Feedback:**
+
+    *   **If Weak/Absent:** "Currently, the main point of this paragraph isn't immediately clear.  **Action Suggestion:** Try to identify the core argument you want to make in this paragraph and articulate it in a clear thesis statement, ideally near the beginning of the paragraph.  This will guide the reader and focus your paragraph."
+
+    *   **If Strong:** "Excellent, this paragraph has a clear and strong thesis statement: '[Identify the thesis statement]'. This clearly sets the direction for the paragraph."
+
+
+**2. Concluding Sentence:**
+
+
+*   **Analysis:** [Analyze the paragraph for a clear concluding sentence. Evaluate if it summarizes the paragraph and transitions smoothly.]
+
+*   **Feedback:**
+
+    *   **If Weak/Absent:** "The paragraph currently lacks a strong concluding sentence.  **Action Suggestion:** Add a sentence at the end that summarizes the main point of this paragraph and consider how it can smoothly lead to the topic of the next paragraph in your section. A strong conclusion provides closure and direction."
+
+    *   **If Strong:** "The concluding sentence effectively summarizes the paragraph's main point and provides a smooth transition. 
+
+
+**3. Logical Flow & Connection to Section Objective:**
+
+
+*   **Analysis:** [Analyze how the paragraph flows logically and contributes to the overall section objective.]
+
+*   **Feedback:**
+
+    *   **If Flow is Unclear:** "The logical flow of ideas in this paragraph could be strengthened. **Action Suggestion (Choose 1-2 relevant actions):**
+
+        *   **Action Suggestion:** Ensure each sentence logically connects to the thesis statement of the paragraph.  Consider if any sentences are digressing or could be more tightly linked to the main point.
+
+        *   **Action Suggestion:** Think about the order of your sentences.  Could rearranging them improve the clarity of your argument?
+
+        *   **Action Suggestion:**  Refer back to the overall objective of your [User-selected section, e.g., "Introduction"]: '[User-defined goal]'.  Make sure every point in this paragraph directly contributes to achieving that objective."
+
+    *   **If Flow is Strong:** "The paragraph demonstrates a clear and logical flow of ideas that effectively supports the paragraph's thesis and the section's overall objective. 
+
+
+**4. Citations:**
+
+
+*   **Analysis:** [Review the paragraph for claims, data, or ideas that require citations.]
+
+*   **Feedback:**
+
+    *   **If Citations are Missing:** "It looks like there are a few claims in this paragraph that might need citations to support them. **Action Suggestion (Choose 1-2 relevant actions):**
+
+        *   **Action Suggestion:**  Specifically, the statement '[Identify a statement needing citation]' would benefit from a citation.  Remember to cite sources for factual claims, data, and ideas that are not common knowledge.
+
+        *   **Action Suggestion:** Review each sentence and ask yourself: 'Is this information my original idea, or did I get it from a source?' If it's from a source, it needs a citation."
+
+    *   **If Citations are Good:** "The citations in this paragraph appear to be appropriately placed and support the claims made. **Praise:** Your use of citations demonstrates good academic practice." (If no citations are present and none seem needed, say: "No citations seem immediately necessary in this paragraph, assuming you are presenting introductory or background information. If you are making specific claims, double-check if citations are needed.")
+
+
+**Based on the feedback above, please revise your first paragraph.  Paste your revised paragraph below, and we'll review it again.**
+
+
+(Wait for User Response - User provides revised paragraph.  Iterate on this single paragraph until it is sufficiently revised, then proceed to the next paragraph in the section, repeating the feedback loop.)
+
+
+**(Repeat the paragraph analysis loop for each subsequent paragraph in the selected section.  After all paragraphs in the section have been reviewed…)**
+
+
+**Step 3: Section Cohesion Review**
+
+
+Now that we've edited each paragraph in your [User-selected section, e.g., "Introduction"], let's look at the section as a whole.
+
+
+Considering the objective of the [User-selected section, e.g., "Introduction"]: "[User-defined goal, e.g., to introduce the research topic, establish its significance, and state my research question.]", and the revisions we've made:
+
+
+*   **Overall Cohesion:** Does the entire section now flow logically and cohesively? Do the paragraphs build upon each other to achieve the section's objective? Are there any gaps in logic or areas where connections could be stronger?
+
+*   **Objective Achievement:**  Do you believe this revised section effectively achieves its primary goal?  Explain why or why not.
+
+
+Are there any final adjustments you'd like to make to the section as a whole?
+
+
+(Wait for User Response - User reviews the entire section and suggests final revisions.  Provide feedback and finalize the section.)
+
+
+**Step 4: Next Section (Optional)**
+
+
+Congratulations, you've now edited your [User-selected section, e.g., "Introduction"]!
+
+
+Would you like to move on to another section of your paper? If so, please tell me which section, and paste the text of that section. We'll then start again from Step 2 (Confirm Section Objective and Paragraph Editing).  If not, you've made excellent progress!
+Knowledge
+TXT icon
+Style_manual
+TXT
+TXT icon
+SandW
+TXT
+Preview
+Conversation with Gemini
+P
+ParaFlow.AI
+
+
+
+Please be responsible Opens in a new window in how you create Gems, and check that your instructions are accurately represented.
+
+Style Manual:
+
+SCIENTIFIC
+MANUSCRIPT
+WRITING GUIDE
+Carly Batist and Daniel Hengel
+The Graduate Center
+The City University of New York
+1 CUNY GRADUATE CENTER, THE WRITING CENTER
+INTRODUCTION TO THE GUIDE
+As a graduate student, writing your first article for submission to a peer-reviewed scientific journal can seem
+particularly intimidating. Publications are an integral part of scientific research and will be a large part of your
+graduate career. They are a kind of academic currency that helps establish your credibility as a scholar. Though
+many of the characteristics of well-written texts appear across disciplines, every field has its idiosyncrasies in the
+performance of academic prose. In this guide, we’ll look at some of the peculiarities of writing in the sciences.
+Most scientific articles employ the “IMRAD” framework—Introduction, Methods, Results And Discussion. The
+Introduction outlines your study’s motivating purpose. It details the problem your project hopes to illuminate.
+The Methods section relates how you carried out your study. Here, you will detail the methodology of your
+project (how you collected your data) as well as the parameters of your study. In the Results section of your
+essay, you present the data that you found in your study. Finally, the Discussion includes your interpretation of
+the results and the implications your findings could have in the development of your field. Briefly, the introduc-
+tion presents the concept, the methods section describes the context, the results contain the content, and the
+discussion presents your conclusions.
+In this guide, we will cover how to approach each part of the “IMRAD” framework as well as how to choose a
+title, write an abstract, and use figures and tables. We will also discuss a range of topics, including how to select
+a journal, working with a team and collaborative writing, and detailing your project’s disclosures (for example,
+potential conflicts of interests, funding sources, and data availability). This guide makes a series of claims about
+writing in the sciences that we believe remain applicable across different fields. Nevertheless, as you well know,
+every field of study within the sciences has a handful of unique, sometimes befuddling, idiosyncrasies. Indeed,
+often, different journals within the same field of study will have distinct requirements that will affect how you
+organize and execute your writing. While the information in this guide will serve as a useful baseline, you must
+always refer to the submission guidelines of your target journal’s “Instructions for Authors” page before sub-
+mitting your work for publication.
+2 CUNY GRADUATE CENTER, THE WRITING CENTER
+TABLE OF CONTENTS
+Drafting a Scientific Paper for Publication 3
+Collaborative Manuscript Writing & Co-Authorship 5
+Front Matter: Setting the Stage 7
+Introduction: The What & Why 9
+Methods: The How 10
+Results: What You Found 12
+Figures & Tables: Visualizing Your Data 14
+Discussion: The Meaning & Why it Matters 16
+Additional Statements & Disclosures 18
+References 20
+3 CUNY GRADUATE CENTER, THE WRITING CENTER
+DRAFTING A SCIENTIFIC PAPER FOR PUBLICATION
+Though there is no “one way” to begin the writing process, many researchers start with the Methods section
+of their article. This is arguably the most straightforward section to write of a journal article in the sciences as
+it simply asks you to retell what you did to uncover your findings as clearly as possible. In the order of writerly
+operations, authors often follow up their Methods with the Results. Again, the Results section of your article is
+largely a recap of your findings rather than an interpretative analysis of your data sets. At this point in your
+writing process, it may be a good idea to gather your data into the figures and/or tables you plan to use in your
+article. They can serve as a valuable guide in the writing process and help you sharpen the focus of the claims
+you will make in the Introduction and Discussion sections of your article. Once you have your Results section
+drafted, consider the kind of narrative you think will best present your findings. This will help you organize your
+argumentative approach and select the studies you will cite in your Literature Review.
+Alternatively, you may want to begin the writing process with your Introduction as you prefer to have a con-
+crete hypothesis detailed and explained before moving chronologically through the manuscript sections. As we
+mentioned before, there is no one way to work through the writing process. Writing is a recursive practice, full
+of change and reorienting. Hopefully, with practice, you’ll discover a starting point that works best for you.
+General Advice for Writing in the Sciences
+Please Note: This is by no means an exhaustive list. Here we have provided a list of frequent suggestions and
+common criticisms more or less specific to writing in the sciences.
+• Before sitting to write, try to identify the journal you would like your work to appear in and research their
+formatting requirements. Remember, every journal has their own way of presenting information. This will
+save you a ton of time. You don’t want to write an entire article only to find that you have to rewrite, refor-
+mat, or recite your sections.
+• It is probably best to minimize the use of new abbreviations. Generally, you should not use an abbreviation
+if the term appears three times or less in your manuscript. Otherwise, you risk frustrating your reader with
+neologisms that they have to consistently redefine. Well known abbreviations in your field can be employed
+at will.
+• Remember to keep your verb tenses (past/present) consistent within the manuscript sections. Typically,
+you should write your Methods and Results sections in the past-tense. Introductions and Discussions are
+most often written in the present tense. Though, be wary, verb tense preferences can vary across journals
+and disciplines. When in doubt, remember to check the author guidelines of your target journal.
+• Omit overly wordy or colloquial phrases such as “in the event that,” “on the grounds of,” “under circum-
+stances which,” “in this case,” “for the most part.” These sentence fillers can be replaced with a more
+succinct word or removed entirely to make a more declarative sentence.
+• Avoid using weak intensifiers such as “fundamentally, basically, very, interestingly, extremely, nearly, etc.”
+Let the content speak for itself. Cushioning statements or hedge words may make it seem like you are not
+willing to stand behind what you say.
+• Avoid using statistical terms in a non-statistical context. Terms such as “random” (as in randomly selected
+sample), “normal” (as in a variable is normally distributed), “significant” (as in a p-value less than 0.05),
+“correlation” (as in interdependence of two continuous variables), and “sample” (as in a set of individuals/
+objects from a true population). These words can be misconstrued if used with a non-technical intention.
+4 CUNY GRADUATE CENTER, THE WRITING CENTER
+• Scan for words that end in -tion, -ism, -ty, -ment, -ness, -ance, -ence and, if possible, change them to an
+active verb and a concrete noun (“we performed an analysis”  “we analyzed”; “the applicability of [x]”
+ “[x] is applicable”).
+• Don’t start sentences with long modifying clauses. The clause you want to emphasize should come first
+(“because of [x], we did [y]”  “we did [y] because [x]”).
+Further Resources
+• For more general comments on writing in the sciences, check out Scott Hotaling’s five-page article, “Simple
+Rules for Concise Scientific Writing.”
+• This printable checklist highlights some of the most common instances where two or more conventions are
+acceptable and a decision needs to be made for which one will be used.
+• Focusing on how readers consume information, “Ten Simple Rules for Structuring Papers,” by Brett
+Mensh and Konrad Kording, presents a set of rules to help you communicate the main idea of your paper.
+These rules are designed to make your paper more influential and the process of writing more efficient
+and pleasurable.
+5 CUNY GRADUATE CENTER, THE WRITING CENTER
+COLLABORATIVE MANUSCRIPT WRITING & CO-AUTHORSHIP
+Today, we rarely see single-author articles detailing original scientific findings. Most research-based studies are
+collaborative studies that bring together researchers from different nations, types of institutions, and research
+disciplines. The hard and soft sciences are full of consortiums, working groups within professional societies,
+and multidisciplinary teams that pool knowledge, funding, facilities, equipment, samples, and computational
+power to conduct complex research. Working in a collaboration requires social sensitivity, respect, self-aware-
+ness, and an understanding of conflict resolution strategies.
+Collaborative manuscripts are a promising avenue of professional development for graduate students; writing
+in collaboration with others pushes early-career scientists to improve their verbal and non-verbal communica-
+tion skills as well as their capacity for project facilitation and leadership. As you approach a publication, it is
+useful to think about how to write manuscripts when on a collaborative team and how to navigate potential
+issues surrounding authorship, accountability, and inclusion. Discuss authorship roles explicitly and openly
+during the publication process. This reduces the probability of conflicts coming up later in your research and
+strengthens team productivity. Ideally, you want to determine the first author, the corresponding author, and
+the order of co-authors before the study starts. If you can’t sort out your authorship order before beginning your
+study, it is imperative that you do so before starting the drafting process.
+Transparency, inclusion, and accountability are vital in developing a successful study and drafting a publishable
+article. In order to avoid misunderstandings, individual contributions, updates, and co-authorship guidelines
+should be documented and openly communicated to everyone on your team on a shared, cloud-based docu-
+ment or workflow application. In your responsibility spreadsheet, note everyone’s expectations for the manu-
+script and allow team members to decide how they want to contribute to the writing process. Set efficient, but
+realistic, internal deadlines that align with team members’ schedules and expectations. Try drafting individual
+author contribution statements early in the project to promote group and individual accountability.
+Set your authorship policies and practices in writing to ensure an equitable division of labor. Creating co-au-
+thorship guidelines will help the team avoid errors of judgement and accountability based on the nebulous
+“unwritten rules” of scholarship. It will also serve to familiarize your group with the publishing policies and
+procedures most frequently employed by professional societies and journals. Co-authorship guidelines should
+illustrate what activities do and do not warrant co-authorship for the study. Your guidelines list who writes
+what—usually a part of or an entire introduction, methods, results, or discussion. These guidelines should
+include a data management plan detailing file sharing and data protection procedures, as well as who handles
+the raw data, data subsets, and processed data.
+Generally, there are three ways to successfully manage a co-authored article. You may want to determine a
+“lead” author who manages the writing process, and a co-author who handles team feedback and facilitates
+brainstorming sessions. Employing two co-leads can be helpful when working on multidisciplinary or multi-or-
+ganization manuscripts. If you have a particularly inclusive, self-driven, and amiable team, a flat distribution
+structure in which all co-authors jointly participate in monitoring timelines, tracking efforts, and managing
+manuscript tasks could work best for you! No matter which management methodology you choose, individual
+contributions should be tracked throughout research and drafting processes. Tracking individual contributions
+throughout the process helps maintain accountability and increases the rate of production.
+Finally, the best teams understand and respect the different disciplines, career stages, institutions, backgrounds,
+and countries within a collaboration. Equitable and inclusive collaborations can challenge the inherent power
+dynamics and hierarchies within a field as the team works to empower early-stage students, researchers from
+under-represented minority groups, and colleagues working in different countries.
+6 CUNY GRADUATE CENTER, THE WRITING CENTER
+What Warrants Authorship?
+Unfortunately, there is no definitive standard for what determines “authorship.” Most professional societies,
+funding agencies, and journals develop their own authorship guidelines shaped by the discipline, scope of
+research, and types of studies conducted. That said, there are at least three consistent metrics for authorship
+that appear across guidelines. One, an author makes significant contributions to the conceptualization, design,
+execution, or analysis of the study—though, what qualifies as a “significant contribution” varies. Two, an author
+contributes to the drafting or revising of the manuscript as well as approves the final manuscript. Three, an
+author takes responsibility for manuscript content, accuracy, and integrity.
+Contributions that do not, on their own, justify authorship might include providing advice, department over-
+sight or administrative support, isolated analyses, general supervision of a research group and writing/editing
+assistance or proofreading. Author contribution statements are becoming more ubiquitous, as this contributor-
+ship model gives all authors public responsibility for article content. These statements identify who has done
+what (for example, obtaining funding, recruiting subjects, analyzing data, and writing the manuscript; See also
+‘Statements and Disclosures section’).
+Examples of Authorship Policies
+• Council of Science Editors (CSE): “Authors should have made substantial contributions to the study, AND
+agree to be accountable for these, AND able to identify which coauthors are responsible for other parts of
+the work, AND have confidence in the integrity of the contributions of coauthors, AND review and approve
+final manuscript”
+• International Committee of Medical Journal Editors (ICMJE): “Authors should substantially contribute to
+conception or design of study or acquisition, analysis or interpretation of data, AND draft article or revise
+it critically, AND approve final version of manuscript, AND agree to be accountable for accuracy and integ-
+rity of the work. All individuals who meet the first criterion should have opportunity to participate in review,
+drafting and final approval of manuscript”
+• National Institutes of Health (NIH): “Each author should have made a significant contribution to the con-
+ceptualization, design, execution, or interpretation of the study AND on the drafting or reviewing/revising
+article, AND willingness to assume responsibility for the study”
+Further Resources
+• For more on effective strategies for managing interdisciplinary scientific teams, check out this article pub-
+lished in
+Ecosphere, “Strategies for Effective Collaborative Manuscript Development in Interdisciplinary
+Science Teams.”
+• This novella-length text by The Council of Science Editors and its Editorial Policy Committee,
+CSE’s White
+Paper on Promoting Integrity in Scientific Journal Publications, is an excellent discussion of ethical publish-
+ing practices, how to engage with team members involved in the editorial process, and how to foster
+informed editorial decisions.
+• Here are Ten Simple Rules for Collaboratively Writing a Multi-Authored Paper to look at before building
+your team.
+7 CUNY GRADUATE CENTER, THE WRITING CENTER
+FRONT MATTER: SETTING THE STAGE
+Title
+Titles can usually be broken down into three general types: interrogative, declarative and descriptive.
+Interrogative titles are phrased as a question. Usually, an interrogative title poses a fairly bold, “eye-catching”
+question that your article’s content just so happens to answer. Interrogative titles are most commonly found in
+review papers, commentaries, and editorials. Declarative (also called “headline”) titles include a complete sen-
+tence that explicitly states the main result of the study. Declarative titles are generally good for basic research
+but may not be the preferred title format for clinical or applied research. Informative titles are the most popular
+type of title. Descriptive titles explicitly define the population/species/sample, experiment, and outcome/rela-
+tionship of your study. Consider the following examples:
+Interrogative: Can we use passive acoustic monitoring to estimate black-and-white ruffed lemur abundance
+and inform conservation efforts?
+Declarative: Neural networks can accurately estimate the distribution of ruffed lemurs using passive acoustic data
+Descriptive: Combining passive acoustic monitoring and machine learning models to estimate black-and-white
+ruffed lemur (Varecia variegata) distribution in the Ranomafana-Andringitra rainforest corridor.
+Your title should be a succinct, accurate, and informative statement or question attractive to your target reader.
+The title conveys the central contribution of your study to a research area. The words within your title are used
+for indexing, so that your paper is searchable online and in databases. Titles should not include abbreviations
+or jargon. Be careful not to overextend the content of the manuscript in the title. The title sets initial expecta-
+tions for your study and defines its scope. There should be no disconnect between title content and manuscript
+content. Titles normally have a character or word count limit. Avoid unnecessary phrases such as “a study of.”
+Be sure to use declarative clauses that assert purpose. Some journals also request a short character-limited
+(e.g., 100 words) “running title” in the header or footer of your manuscript pages.
+The title should include information on the general research topic as well as one or two of the most useful/new/
+important manuscript elements. A workflow that may help you in writing a title begins by bulleting the ele-
+ments of your study. Consider your setting or location; patients, organisms, events studied; experimental trials,
+groups, materials; and outcomes or relationships. Start with a sentence that includes all these elements, and
+then edit it down to the most important elements that still fit within the required word or character counts.
+Abstract
+In the sciences, the abstract summarizes your study’s central claim or problem, the method of your study, and
+a brief account of the study’s most important result(s). Ultimately, the abstract convinces the reader of your
+article’s value to their research and scholarship. Because of their summative nature, abstracts are traditionally
+the last section of a manuscript to be written. However, writing a preliminary version of the abstract before the
+manuscript can help you identify key elements of your work to emphasize when writing other sections of the
+paper. As with drafting a good title, there should be no disconnect between the content of the abstract and your
+full manuscript. Please note, all abstracts come with a word limit—usually between 300 and 500 words. Abstracts
+should not contain citations or novel abbreviations. Some journals require a graphical abstract, which can be
+its own separate, captioned figure or a figure presented in the paper.
+8 CUNY GRADUATE CENTER, THE WRITING CENTER
+Abstracts in scientific writing usually fall into one of three categories: descriptive, informative, and structured.
+Descriptive and informative abstracts are unstructured, meaning they consist of one paragraph without head-
+ings. Descriptive abstracts present the topics discussed in a paper, and they most frequently appear in review
+papers and commentaries. Original research articles employ informative abstracts that include one or two sen-
+tences that briefly summarize each section of the manuscript—introduction, general methodology, primary
+results, main conclusions. Structured abstracts contain content similar to informative abstracts but have specific
+sections or subheadings that correspond to the introduction, methods, results, and discussion sections of the
+manuscript. Structured abstracts tend to be more detailed than unstructured abstracts. Whether informative or
+structured, your abstract should clearly state the purpose of your study and the importance of the results. You
+want to avoid long lead-ins before getting your contribution to your field. Remember, include the primary objec-
+tive or hypothesis and the most important results to support the manuscript’s conclusions. We recommend
+reading a number of abstracts from journals in your field to gain a firmer sense of what each kind of abstract
+looks like, as well as the kinds of articles (review, original research, etc.) where you find them being used.
+Keywords
+You will need to provide either three or five keywords, which will appear directly below the abstract. These
+words or phrases should not be in the title (since those words will already be indexed) but should still be rele-
+vant to your study. Cull your keywords from your study’s theoretical or methodological apparatus and results,
+as well as from alternative names for variables in your study including species, samples, and sites. Keywords,
+like titles, index your paper in databases or online.
+Acknowledgements
+The acknowledgements section highlights people, organizations or institutes that helped with the study but
+whose assistance did not warrant full co-authorship. Acknowledgements might include people who provided
+technical or writing assistance, laboratory space, or revisions to earlier manuscript drafts. You may want to
+include funding sources, government agencies, and the permits/permissions obtained for your study in this
+section, although funding, government support, and permission-related disclosures often appear as their own
+note near the end of your manuscript (see also ‘Statements and Disclosures’).
+Further Resources
+• ●This post on Title, Abstract and Keywords, by Springer Publishing, provides useful examples of well-
+wrought titles and keywords.
+• UC Irvine’s Scientific Writing Guide has, among much else, an excellent checklist to guide your abstract
+writing process.
+• Here’s a link to an incredibly detailed and edifying discussion of three approaches to writing the abstract,
+brought to you by the Writing Center at UW Madison. Their examples of exemplary abstracts across disci-
+plines are particularly valuable.
+9 CUNY GRADUATE CENTER, THE WRITING CENTER
+INTRODUCTION: THE WHAT & WHY
+Your introduction section should present the context for the questions you address in your study and establish
+the exigency (which is to say, the importance and urgency) of your work. Often, you will want to begin your
+introduction by broadly addressing the significance of your research field. Then locate your work with respect
+to your field of study. This may include a brief discussion of the potential field-wide implications of your study
+and the effect your work could have on future research projects. If you choose to address the ripples your study
+could have within your field in your introduction, then keep it short as you will return to this topic in your Dis-
+cussion section. Gradually narrow the scope of the introduction. Guide your reader through a logical progres-
+sion from the larger research field, to a particular research topic, and then to your specific research question.
+Once you position your project and its exigency within your discipline, you must then familiarize the reader
+with the field-specific lexicon you employ in your research. You should clearly define and explain the key terms
+or concepts—particularly very technical or debated terms—necessary for understanding your study. If there are
+opposing viewpoints for a particular concept, justify the “side” you’re on and how your study contributes to
+these debates. Defining your terms and establishing their relevance to your work helps orient readers to your
+research topic.
+Likely, your introduction will include a review of the literature in your field that is relevant to your study. You
+don’t have to write a complete literature review. Instead, focus on the most current knowledge pertinent to your
+project. The publications you choose to address should help clarify why you developed your study’s research
+questions and hypotheses. Most importantly, however, the brief literature review that you include in your intro-
+duction should be geared toward identifying a gap in your discipline’s established field of knowledge, a gap that
+your project intends to fill.
+In the final paragraph of the introduction, briefly introduce what you aim to achieve in your study to address
+the gap in knowledge that you identified in your literature review. Here, you may want to restate your research
+question. The final paragraph of an introduction in the sciences typically provides an explicit breakdown of your
+study’s objectives, hypotheses, and predictions. It is sometimes helpful to number these in-text and follow that
+numbering through the following sections (e.g., using subheadings, statements such as “To address objective
+1, we did…”). There should be some sort of consistent, logical flow maintained throughout the paper. You
+should explain why you have the predictions that you do.
+This guide’s breakdown of a typical introduction is a lot to take in, and it can be hard to picture what these
+guidelines would actually look like when put into practice. The only way to really gain a firm grasp of these
+principles is to practice matching them up with real-world examples. Choose two or three articles in your field
+that you know are well-written and generally held in high regard. Look through each article’s introduction and
+see if you can identify the ways they apply the principles offered in this section.
+Further Resources
+• Check out this incredibly efficient guide to Writing an Introduction for a Scientific Paper hosted by The
+University of Wisconsin-Madison’s Writing Across the Curriculum program.
+• The journal
+Nature has a good page that walks through the elements of an introductory section. This page
+deals with every section of a scientific paper, but their account of an article’s introduction is especially
+useful.
+• Check out this table illuminating the three moves most IMRaD Introductions should make embedded in
+The Writing Center at George Mason University’s page on writing the Introduction.
+10 CUNY GRADUATE CENTER, THE WRITING CENTER
+METHODS: THE HOW
+The Methods section details how you collected the data that you believe will answer the research questions or
+hypotheses you stated in the introduction. This section describes the procedures and materials you used to
+collect your data as well as the data’s sample types. A clear, succinct Methods section also demonstrates your
+knowledge and comprehension of the current methodologies relevant to your study. Methods sections usually
+include subheadings ordered chronologically or by procedure type. The nature of your study determines the
+order of your subheadings.
+Begin by clearly detailing how your methodology reliably gathers the information needed to answer your research
+question. You should describe all aspects of the research design, which may include, but is not limited to:
+• the types of data
+• definitions of variables
+• the species/subjects/samples of your study
+• the study site and length
+• the equipment, chemicals, or instrument(s)—when applicable include the quantities and concentrations of
+your materials
+• the study’s experimental or sampling protocols
+• how outcomes were measured
+• your data analysis procedures
+• specific information and manufacturer citations for equipment critical to data collection
+Be consistent with your terminology, variables, and units. After reading the explanation of your study’s proce-
+dures, the reader should be able to tell that the quantities used in your study are measurable and comparable
+and that you have formed testable hypotheses.
+‘Data Analysis,’ the final part of the Methods section, typically has its own subheading within the Methods sec-
+tion. In the Data Analysis sub-section, you should describe the different types of data you collected, and any
+transformations applied to variables within these data. Provide the alpha, significance, or confidence interval
+levels you used to interpret statistical outputs. This part should include any qualitative or quantitative analyses
+or pre-processing conducted on data collected—including statistical tests used, why those specific tests were
+used, confirmation of test assumptions (e.g., normality, dispersion), the program used to conduct the analyses,
+and how influencing factors were accounted for or controlled. If applicable, also describe any post-hoc compar-
+isons or tests.
+Note: Depending on the journal or protocol, you may reserve some of your more detailed protocols or methods
+as supplementary materials (online supplementary files). If your study follows a widely used technique or
+established standard operating procedure (SOP), you do not have to detail the entire process; just cite the orig-
+inal reference for the technique or procedure. If you employ a potentially controversial/novel/etc. method, you
+may want to cite other papers that have previously used it (or something similar) to show proof-of-concept. It’s
+also good to describe any adaptations made from original procedures (i.e., “we wanted to do ‘a’ but could not
+because ‘b,’ so we instead did ‘c’ because ‘d’”).
+Finally, either the first or last subheading of the Methods sections discloses the legal apparatus validating your
+methodology. This subheading should be titled, “ethical approval.” Here, you should list your IRB or IACUC
+approval, with the name of the governing body and the approval number. You should also note any domestic
+(USDA, DEC, etc.) or international (governmental permissions, research permits, etc.) permits obtained for
+conducting the research. Certain journals or funding agencies may require documentation of additional approv-
+als (e.g., NIH and the written, informed consent of study subjects). Be sure to check the journal’s author guide-
+lines as well as your funding agencies’ requirements before beginning your Methods section.
+11 CUNY GRADUATE CENTER, THE WRITING CENTER
+Further Resources
+• We found the Dos and Don’ts section of this article, by
+Editage Insights, particularly useful when editing our
+Methods sections.
+• This brief article, “How to Write the Methods Section of a Research Paper,” by Richard H Kallet, provides
+an approachable summary of the Methods Section and how to get it done.
+• L.F. Azevedo
+et al. published a very helpful article, “How to write a scientific paper—Writing the methods
+section,” in the
+Portuguese Journal of Pulmonology.
+12 CUNY GRADUATE CENTER, THE WRITING CENTER
+RESULTS: WHAT YOU FOUND
+The Results section reports the outcome of your data collection and analyses. Here, it is best to systemically
+move from one important result to the next. This may mean reporting results first from a broader dataset and
+then from subset analyses, from experiment/trial # to experiment/trial #, from chemical to chemical, or from
+simple analyses to more complex ones. Before plotting your Results section, be mindful of discipline-specific
+norms for the unpacking of your results. You should present all data necessary to support or understand the
+conclusions and implications of the study. If you used sub-headings or numbered objectives earlier in the man-
+uscript, continue to keep those consistent in the Results section.
+You should present your results neutrally. List all the results of your study. Do not prioritize statistically signifi-
+cant results or only the data that support your hypotheses. Remember, non-significant results are still import-
+ant. Reporting these “negative” results will prevent future studies from repeating already established/
+discounted relationships.
+When you report your results, you can also address any aspect of your methodology that did not go as planned
+and mention if you took additional steps in data collection and analysis. For example, your sample size may be
+smaller than intended due to an unforeseen, last-minute consequence, or you realized there was another vari-
+able you needed to control for. Similarly, you should report results that exclude alternative explanations. If you
+use a novel method or technique, you should report the results validating that method before executing a more
+detailed analysis of that particular method of data collection.
+Numerical and statistical values tend to be more effective in tables, charts, or figures, as it is hard to compare
+numbers in sentence form. Placing summary statistics or model outputs into a table makes the relationships
+between variables easier to visualize. Do not repeat the information detailed in your tables and figures in your
+narrative. The tables, charts, and figures should complement your description of the results. In the narrative of
+your Results section, you can refer to the overall relationship of the data sets and then cite the table/figure. You
+should report all model or statistical outputs in the supplementary material and highlight noteworthy or inter-
+esting outputs in the body of your Results section. Remember, not every relationship or finding warrants a
+figure, chart, or table. Pick particularly noteworthy, interesting, or unexpected results to display in a figure or
+graph. For more information on employing tables, chart, or figures see chapter 7 of this document.
+When describing statistically significant results, you should include some indication of the sample size or degrees
+of freedom the test used, the test statistic (e.g., F-value, rho, chi square), and the p-value. These can be placed in
+tables or condensed into a parenthetical clause at the end of the sentence describing that relationship. There has
+been much written on the pros and cons of p-values and what they really mean (see “Further Resources” below
+for more information). That said, p-values remain widely used and are often required by journals or reviewers.
+Another way to show the robusticity of a relationship is to also report the effect size (e.g., the r2, % variance
+explained, etc.) with its standard error or 95% confidence intervals. You can have significant p-values that show
+tiny effect sizes because of small sample sizes, model convergence issues, etc. Reporting effect sizes alongside
+p-values is a more transparent and robust way of presenting your results. When reporting differences between
+factors of a variable, you should report the mean and standard deviation (or confidence interval, another other
+measure of variance) of each result so the reader gets a sense of the magnitude of difference.
+Note: a few journals use an alternative manuscript structure in which results come after the Introduction and
+Methods are the last section of the article. If this is the case, you may need to give some methodological infor-
+mation to contextualize your results, saving detailed methods for the Methods section. Following recent
+open-access initiatives, most journals now require some sort of data availability statement—see Chapter 9 of
+this document for more details regarding statements and disclosures.
+13 CUNY GRADUATE CENTER, THE WRITING CENTER
+Further Resources
+• ●eLife, an initiative from research funders to transform research communication through improvements to
+science publishing, technology, and research culture, published a useful handout listing “Ten Common
+Statistical Mistakes To Watch Out For When Writing Or Reviewing A Manuscript.”
+• Daniel Kotz and Jochen W.L. Cals have a very helpful article, “Effective writing and publishing scientific
+papers, part V: results,” in the
+Journal of Clinical Epidemiology.
+•
+The International Journal of Endocrinology Metabolism published an incredibly detailed and thorough
+article discussing the best practices of Results section writing titled, “The Principles of Biomedical Scien-
+tific Writing: Results.” Don’t let the title put you off—despite its apparent specificity, the article’s advice
+regarding the Results section is applicable across disciplines.
+14 CUNY GRADUATE CENTER, THE WRITING CENTER
+FIGURES & TABLES: VISUALIZING YOUR DATA
+The reader should be able to understand the data presented in your tables, figures, and charts without referring
+to the body of your article. They should be a “stand-alone” comprehensible unit. Be careful to name your
+graphs, tables, and data sets in descriptively meaningful ways; it’s important to let your reader know what kind
+of information you are presenting to them. Each figure and table should include the following:
+• title
+• legend
+• identification and representation of the data (e.g., color-coding, labels, etc.)
+• key aspects of the data set (what should the reader notice?)
+• the date(s) of data collection
+• how you collected the data
+• any other information needed to understand your data set so that the reader does not need to refer to your
+narrative
+You should consecutively number figures and tables in order of their first citation in your study. Ensure that the
+font type and size of your figures and tables match the manuscript text. Often tables and figures are shrunk by
+the publisher to fit within the column widths of the journal. You may need to increase the font size so that the
+text remains readable upon publication.
+It may be helpful to make your figures and tables before writing out the results section or even the entire man-
+uscript. This can help you identify key findings. Developing summaries of each figure and table can help you
+develop your Results section. “Thinking in figures,” can help you visualize how to convince someone that your
+study produced interesting, robust, and important results.
+Submission protocols regarding tables, charts, and figures differ across journals. Some journals want your data
+sets in the same file as the manuscript text (below the paragraph where they are first referenced in-text). Others
+require you to submit your data sets in a separate file (potentially with figure legends listed at the end of the
+manuscript text file). There may be different requirements for tables and figures. For example, figures are often
+sent as JPEG/PNG’s. Tables frequently appear embedded in your document’s text. These requirements can also
+differ between the first submission of your work for peer review and its final, for publication, submission. Be
+sure to check the journal’s tables, charts, and figures formatting guidelines before organizing your data.
+Regarding Figures
+Figures should be simple, aesthetically pleasing, and easy to understand. Popular figure forms include images,
+maps, graphs, and flowcharts. If your study has a complicated or lengthy workflow (e.g., whole genome
+sequencing), flowcharts may be particularly helpful as they are better able to illustrate complex protocols. Try
+to minimize your figures’ “busyness” by excising gridlines, in-figure legends, errant axis tick marks, etc. Also
+be sure not to use red and green in the same figure, as the figure will not be understandable to color-blind
+readers. Figure legends should describe the details of the figure in clear, succinct, and informative sentences.
+Legends are not the place for longwinded prose.
+Remember, not every result has to have an accompanying figure. Reserve your use of figures to highlight and
+emphasize the most important, interesting, or unexpected results. Most articles include three or four figures in
+the manuscript. Too many figures can distract your reader. Too few data sets may cause the reader to question
+the rigor of your study. You can include additional figures in the supplementary material. Check the journal’s
+publication requirements for figures and confirm that the file type, resolution, and size of your figures follows
+the journals specifications. Often a journal will give specific height/width measurements that comply with the
+journal’s manuscript formatting (e.g., column width, how many columns per page).
+15 CUNY GRADUATE CENTER, THE WRITING CENTER
+On Tables
+Tables are useful for succinctly and clearly displaying summary or descriptive statistics, model outputs, or
+comparisons between factors within a variable. Depending on the journal, tables may have a title and a ‘foot-
+note’ section. Like figures, present your tables in a clear, concise, and approachable manner. Use as few grid
+and border lines as possible—try the inherent spacing of the table cells instead. Decide whether a landscape
+or portrait orientation is better for your table. Will you use long rows or long columns? This is largely a matter
+of personal preference and data-set readability. Avoid using “*” for non-statistical tables and instead use a
+superscript letter (a) or another symbol (†, ‡—check the journal’s preference regarding symbols). If you are
+giving numeric results in a table, then provide derivatives such as percentages as well as the original absolute
+numbers/ratios.
+Further Resources
+• Springer—a leading academic, scientific, technical, and medical portfolio—provides an excellent break-
+down of the most common tables, charts, and figures used in science writing.
+• “Graphs, Tables, and Figures in Scientific Publications: The Good, the Bad, and How Not to Be the Latter,”
+by Lauren E. Franzbla and Kevin C. Chung, MD, MS is an incredibly approachable article detailing the “Dos
+and Don’ts” of employing data sets in your writing.
+• The Writing Center at UNC has an excellent page—full of model graphs, tables, and figures—describing
+how to use figures and tables to present complicated information in a way that is accessible and under-
+standable to your reader.
+16 CUNY GRADUATE CENTER, THE WRITING CENTER
+DISCUSSION: THE MEANING & WHY IT MATTERS
+In the Discussion section, you describe the meaning and implications of your results and integrate your find-
+ings with existing studies in your field. In this section, the narrative arch of your argument should begin “small”
+and end “big.” In this way, the Discussion section inverts the structure of your Introduction. Start by explaining
+how your findings engage with the hypotheses you proposed in the introduction. Then, spend some time
+explaining the study’s results and your data’s relevance to the studies you addressed in your Literature Review.
+You may want to consider your findings with respect to the research theory operating in your field. Finally,
+discuss the practical implications of your study. Ask yourself, “how does my work act as a catalyst—what will/
+could change in my field because of the work I’ve done?”
+Take the time to describe the pattern or relationship discovered in each of your primary results. Then discern
+how that pattern or relationship in your data relates to a hypothesis or prediction you made in your introduc-
+tion. Discuss whether your findings agree or contradict previous studies and provide possible alternative expla-
+nations for unexpected findings. Your Discussion section should clearly articulate the importance of the findings
+of your study.
+Typically, the narrative arc of the Discussion section observes the following guideline:
+• Summarize the study’s findings. Here, you don’t want to repeat individual results but rather provide a brief
+overview of the Results section as a whole.
+• Interpret findings. As noted above, in interpreting your results, you may need to suggest alternative expla-
+nations or possibilities for the primary findings.
+• Relate your results back to the hypotheses or predictions you stated in the Introduction.
+• Identify any surprising results or findings that contradict your predictions and discuss potential reasons for
+this disparity.
+• Critique your study by describing any limitations or caveats inherent to your work. Understanding and
+elucidating your study’s limitations helps illustrate your credibility as an author. Reviewers will be more
+convinced by your claims if you acknowledge your work’s potential failings. Here, you let the reader know
+that you’ve thought through the complete arc of your study’s potential influence on your field. No protocol
+is perfect.
+• Broaden the scope of your interpretation comparing your results to previous studies.
+• Describe whether your results compliment or conflict with the findings of related studies.
+• Consider the implications of your results to other studies and your research field. Here, you can speculate
+a bit, but not too much; speculation should still be based on logic and facts rather than suppositions.
+• Explain how your findings contribute to a more comprehensive understanding of the research topic. In
+describing the broader implications of your work, you might relate your findings to relevant policies, diag-
+noses, protocols, or as a proof-of-concept posed in a different study.
+• Discuss fruitful future directions of your work.
+• End with a conclusion.
+17 CUNY GRADUATE CENTER, THE WRITING CENTER
+Conclusion formats differ across journals, so be sure to check the author guidelines. Some journals require a
+stand-alone conclusion section following the discussion, some require a bulleted list of highlights, and some
+leave it up to the author to incorporate conclusions into the Discussion section. Regardless of its format, write
+your conclusion with declarative, summative statements. You don’t want to repeat specific results or restate
+anything you’ve already mentioned earlier in the Discussion section. Just give a 3-5 sentence (or bullet-point)
+summary of the study as a whole and why you believe your work is important to your field.
+In order to get the most out of this guide’s account of how discussion sections work, make a point of comparing
+what you’ve read here against two or three actual articles in your field. Mark the places where each article does
+something covered in this chapter. Also make note of things the article doesn’t do, as well as things the article
+does that we don’t mention. Then, take some time to make critical evaluations. Does the presence of things we
+recommend make the Discussion section stronger? Does the absence of certain elements make it weaker?
+Further Resources
+• Here’s an alternative Discussion Section paragraph breakdown provided by Bio Writers.
+• Check out Dr. Horvath’s, the editor of ScienceDocsInc, 5 Common Mistakes to Avoid when Writing
+a Discussion.
+• The Broad Institute of MIT and Harvard has a great page that includes two annotated examples of exem-
+plary Discussion sections.
+18 CUNY GRADUATE CENTER, THE WRITING CENTER
+ADDITIONAL STATEMENTS & DISCLOSURES
+Journals may require information in addition to your manuscript text, tables, and figures. These documents
+may include, but are not limited to, conflict of interest statements, data availability statements, funding disclo-
+sures, author contribution statements, author ORCIDs, and affirmation of single submission. Information
+regarding additional materials can be found in your target journal’s publication guidelines.
+Ethical Information
+Study Participants or Subjects
+If your study includes human subjects, the study must be approved by an Institutional Review Board (IRB). If
+your study includes animal subjects, the study must be approved by an Institutional Animal Care and Use Com-
+mittee (IACUC). You should provide the name of the IRB/IACUC approving body and the approved protocol
+number in your manuscript along with any other ethical approvals (e.g., written informed consent).
+Conflict of Interest
+If any co-authors have affiliations, funding, or collaborations that have the potential to bias the study, they must
+disclose these Conflicts of Interests (COI). COI exists when professional judgement in a study may be influenced
+by secondary interests (e.g., financial gain or career advancement). COIs can include previous employment,
+consultancies, stock ownership, honoraria, patents, and personal relationships. COI statements typically take
+the form of: “[author initials] is a 5% share owner in [product, drug, company],” or “[author initials] formerly
+worked at [organization] and still consults for them.” See also ‘Funding’ below.
+Funding Disclosure
+Depending on the journal, the funding acknowledgement may have its own section or may be integrated with
+the broader ‘Acknowledgements’ or ‘Conflict of Interest’ sections. Journals may require funding disclosures
+(academic, government, corporate, etc.), particularly if there is a potential conflict of interest (e.g., “Funding
+for this study is provided in part by [company name]”). If this is the case, you might have to affirm that the
+funding organization had no part in conducting the study and that the results are independent of the organi-
+zation’s opinions.
+Affirmation of Single Submission
+It is not acceptable for authors to simultaneously submit the same study to multiple different journals. This
+includes manuscripts undergoing peer review but that have not been formally rejected by the reviewing journal.
+When submitting a manuscript, you will likely have to certify—in the journal’s submission portal—that your work
+is not currently under review with another journal and that your work has not been previously published.
+Author Information
+Contribution Statements
+Journals may require an author contribution statement, which identifies which co-authors were involved in
+which tasks—e.g., obtaining funding, recruiting subjects, collecting data, running models, writing/revising
+manuscript drafts. Also see the ‘Collaborative Writing and Co-authorship section.’
+ORCIDs
+Journals are increasingly requiring or recommending the inclusion of the author’s Open Researcher and Con-
+tributor Identification, (ORCID). ORCIDs provide a persistent digital identifier that you own and control, which
+distinguishes you from other researchers. ORCIDs can be connected to professional affiliations and accolades
+to identify you with your scholarly contributions.
+19 CUNY GRADUATE CENTER, THE WRITING CENTER
+Corresponding Author
+You will need to identify one corresponding author, who is often, but not necessarily, the first or last author. The
+corresponding author provides their contact information (email, university address) in the published manu-
+script. This author acts as a point person between the author-team and the journal during the peer review and
+publication process and submits the manuscript through their account in the journal’s submission portal. The
+corresponding author also fields comments and queries made by other scholars after publication.
+Data Information
+Data Availability and Sharing
+Data availability statements provide access to the manuscript’s data and/or code. Journals typically offer
+authors prewritten Data Availability and Sharing Statements, which include, but are not limited to, brief state-
+ments such as “no new data presented,” “data available upon reasonable request to corresponding author,”
+“dataset used to generate results provided in supplementary material,” or “data used are archived on [reposi-
+tory DOI] and the R code used is on [Github URL].” Data archiving procedures vary by data type (e.g., GenBank,
+NCBI, cell line databases, etc.), discipline (GBIF, NoMaD, EarthChem, Pangaea), organism/strain-specific (ZFIN,
+Xenbase), and repository (e.g., Dryad, figshare, Zenodo, Harvard dataverse).
+Manuscript Accessibility
+Some funding agencies, particularly government agencies, require public access to the results of studies
+funded by that organization. For example, the NIH requires all NIH-funded peer-reviewed manuscripts to be
+submitted electronically to the National Library of Medicine’s PubMed Central. The NSF requires that all
+accepted manuscripts be deposited as a freely downloadable record, with proper metadata elements, in an
+open-access repository, determined by your datatype and discipline, for long-term preservation. Check with
+your funders (governmental or not) to make sure you are meeting any accessibility requirements.
